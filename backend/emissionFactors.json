@@ -1,0 +1,12 @@
+{
+  "truck": {
+    "Petrol": { "TTW": 0.3, "WTT": 0.05, "WtW": 0.35 },
+    "Diesel B7": { "TTW": 0.28, "WTT": 0.04, "WtW": 0.32 },
+    "Electric": { "TTW": 0, "WTT": 0.05, "WtW": 0.05 }
+  },
+  "van": {
+    "Petrol": { "TTW": 0.2, "WTT": 0.04, "WtW": 0.24 },
+    "Diesel B7": { "TTW": 0.18, "WTT": 0.03, "WtW": 0.21 },
+    "Electric": { "TTW": 0, "WTT": 0.04, "WtW": 0.04 }
+  }
+}
